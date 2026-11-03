@@ -1,0 +1,17 @@
+[]
+
+[
+    {
+        "doctor_id": "D001",
+        "name": "Dr. James",
+        "specialization": "Cardiology",
+        "availability": "Monday-Friday, 09:00-17:00"
+    },
+    {
+        "doctor_id": "D002",
+        "name": "Dr. Sarah",
+        "specialization": "Pediatrics",
+        "availability": "Monday-Friday, 08:00-16:00"
+    }
+]
+

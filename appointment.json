@@ -1,0 +1,12 @@
+[]
+
+[
+    {
+        "appointment_id": "A001",
+        "patient_id": "P001",
+        "doctor_id": "D001",
+        "date": "2026-11-10",
+        "time": "10:00",
+        "status": "Booked"
+    }
+]

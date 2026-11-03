@@ -1,0 +1,18 @@
+[]
+
+[
+    {
+        "patient_id": "P001",
+        "name": "John Kamau",
+        "age": 25,
+        "gender": "Male",
+        "contact": "0700000001"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Mary Wanjiku",
+        "age": 30,
+        "gender": "Female",
+        "contact": "0700000002"
+    }
+]
